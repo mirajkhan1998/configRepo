@@ -4,3 +4,6 @@ git commit -m “your message”
 git remote add origin https://github.com/username/reponame.git
 git pull -–rebase
 git push -f origin master
+
+
+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
